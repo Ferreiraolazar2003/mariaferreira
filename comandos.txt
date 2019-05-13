@@ -1,0 +1,14 @@
+##########
+#comando de git
+##########
+
+#git add . 
+#git commit -m "el mensaje"
+#git push   (para empujar el codigo del local al remoto)
+#git pull    (para estirar el codigo del remoto al local)
+#########
+#comando para navegar en la terminar 
+########
+ #ls o dir    (para ver los documentos existentes)
+ #cd nombre_de_archivo  (para entrar en el arcgivo)
+ #cd .. (para salir del archivo)
